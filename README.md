@@ -1,4 +1,4 @@
-<img src="https://github.com/haz-baker/haz-baker/blob/master/Banner.png">
+<img src="https://github.com/haz-baker/haz-baker/blob/master/banner.png">
 
 You can find me on [![alt text][1.1]][1]
 
