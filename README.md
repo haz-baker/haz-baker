@@ -15,4 +15,4 @@ I am a computer science student and i want to share my prgress with you to help 
 
 📝 what am i creating at the moment ? --> Im currently working on my coursework which I will share with you all once it has been assesed and my client agrees! 😊
 
-📚 What am i studying right now? --> I am currently studing machine learning and databases
+📚 What am i studying right now? --> I am currently studing machine learning and databases.
