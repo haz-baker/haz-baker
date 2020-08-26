@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](Banner.png)
+<img src="https://github.com/haz-baker/haz-baker/blob/master/Banner.png">
 <!--
 **haz-baker/haz-baker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
